@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.box1 img {
+    width: 60px;
+    height: 80px;
+}
+#form1 .group1 {
+    width: 40%;
+    float: left;
+}
+#form1 .group2 {
+    width: 40%;
+    float: right; 
+}
+
+.group1 select {
+    width:40%;
+}
+
+.form-group1 {
+    width: 40%;
+    float: right;
+}
+
+.form-group2 {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.form-group3 {
+    text-align: center;
+}
+.form-group4 {
+    width: 30%;
+    height: 450px;
+    float: left;
+    overflow: scroll;
+    list-style-type: none;
+    border: 1px  solid black;
+}
+
+.form-group5 {
+    width: 30%;
+    height: 400px;
+    float: right;
+    border: 1px solid black;
+}
+

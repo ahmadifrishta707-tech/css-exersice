@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*.s1 {
+    display: inline-block;
+    width: 24%;
+    background-color: aqua;
+}*/
+
+.s2 {
+    display: inline-block;
+    width: 24%;
+    background-color: blue;
+}
+
+.s3 {
+    display: inline-block;
+    width: 24%;
+    background-color: red;
+}
+
+.s4 {
+    display: inline block;
+    width: 24%;
+    background-color: green;
+}

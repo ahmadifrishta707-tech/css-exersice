@@ -1,0 +1,17 @@
+h1{
+	color:blue;
+}
+
+
+
+table{
+	background-color:lightgreen;
+	width:50%;
+	border:1px solid green;
+	border-collapse:collapse;
+	
+}
+th,td{
+	border:1px solid green;
+	padding:3px;
+}

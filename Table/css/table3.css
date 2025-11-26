@@ -1,0 +1,44 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+
+
+.container{
+	width:50%;
+	height:300px;
+	background-color: aliceblue;
+}
+#name{
+	display:inline-block;
+	width:49.5%;
+	text-align: left;
+	font-family: Elephant;
+}
+#inc{
+	display:inline-block;
+	width:49.5%;  
+	text-align: right;
+	font-family: Franklin Gothic;
+	font-size: 30px;
+}
+
+table.tb1 {
+	width: 100%;
+	background-color:green;
+}
+
+table.tb2 tr th {
+	width:50%;
+	background-color:darkblue;
+	text-align:left;
+}
+.th1{
+	width:400px;
+}
+.tb3 tr:nth-child(odd){
+	background-color:pink;
+}	
+
+	
